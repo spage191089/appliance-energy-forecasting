@@ -1,0 +1,11 @@
+,value
+mean_residual,-0.06891111776159049
+residual_sd,62.36442864309817
+skew,1.8841140714074627
+kurtosis,11.24704421950935
+ljung_box_p_lag24,0.7199144491988035
+ljung_box_p_lag48,0.4903464680320519
+ljung_box_p_lag168,0.14949922713785116
+jarque_bera_p,0.0
+var_ratio_last_vs_first_third,0.6554752696793251
+significant_acf_lags_1_to_48,3.0

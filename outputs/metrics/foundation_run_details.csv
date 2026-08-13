@@ -1,0 +1,10 @@
+,value
+model_name,amazon/chronos-bolt-base
+model_label,chronos_bolt_base
+device,cpu
+usage,"zero-shot, univariate, no covariates, no timestamps"
+context_length,1024
+horizon,24
+n_windows,14
+quantile_levels,"[0.1, 0.5, 0.9]"
+run_at,2026-08-13T12:47:01

@@ -1,0 +1,7 @@
+,value
+order,"(1, 0, 6)"
+seasonal_order,"(0, 1, 1, 24)"
+aic,32137.614351335986
+bic,32197.332112564793
+n_grid_fits,147
+best_sarimax_model,sarima_target_only
