@@ -1,6 +1,3 @@
-# appliance-energy-forecasting
-Time-series forecasting of household appliance energy consumption
-
 # Appliance Energy Forecasting
 
 A reproducible time-series forecasting project for modelling and forecasting household appliance energy consumption.
